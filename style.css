@@ -1,0 +1,35 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family:cursive;
+}
+.header{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+
+}
+.btn{
+    background-color: #673de6;
+    padding:7px 13px;
+}
+input:hover{
+    border:2px solid green;
+}
+textarea:hover{
+    border:2px solid green;
+}
+imgele{
+    max-width:100%;
+    height:auto;
+}
+section{
+    display:block;
+    unicode-bidi: isolate;
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+    margin:5px;
+}
